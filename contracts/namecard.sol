@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT License
 pragma solidity >=0.7.0 <0.9.0;
 
-contract The Z Institute {
+contract The_Z_Institute {
 
   string name = "Lee Ting Ting";
   string title = "Founder & CEO";
